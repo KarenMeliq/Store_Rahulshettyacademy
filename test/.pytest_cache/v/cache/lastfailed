@@ -1,0 +1,5 @@
+{
+  "test.py::MyTestCase::test_something": true,
+  "test.py::MyTestCase::test_title": true,
+  "test.py": true
+}

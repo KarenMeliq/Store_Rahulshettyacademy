@@ -1,0 +1,11 @@
+[
+  "test.py::MyTestCase::test_something",
+  "test.py::MyTestCase::test_title",
+  "test.py::Test_rahul_shetty_academy::test_card_page",
+  "test.py::Test_rahul_shetty_academy::test_mango_on_overlay",
+  "test.py::Test_rahul_shetty_academy::test_mango_price_quantity",
+  "test.py::Test_rahul_shetty_academy::test_proceed",
+  "test.py::Test_rahul_shetty_academy::test_proceed_checkout_one_item",
+  "test.py::Test_rahul_shetty_academy::test_rahul_title",
+  "test.py::Test_rahul_shetty_academy::test_terms_condition"
+]
